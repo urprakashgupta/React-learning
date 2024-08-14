@@ -1,0 +1,22 @@
+{
+  "name": "episode_2",
+  "version": "1.0.0",
+  "description": "\"This is my react learning\"",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/urprakashgupta/React-learning.git"
+  },
+  "author": "Prakash Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/urprakashgupta/React-learning/issues"
+  },
+  "homepage": "https://github.com/urprakashgupta/React-learning#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
